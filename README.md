@@ -8,3 +8,9 @@ business and personal tasks.
 Deatil-oriented, structured, recursive and autodidatic profesional who is continuingly learning about new
 technologies and developments in the technological and digital environment to find the most innovative
 solutions for each project.
+
+
+technologies
+- c# - HTML5 - javaScript - Net.framework - Net.core - Unity3D
+
+
