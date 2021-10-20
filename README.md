@@ -11,6 +11,12 @@ solutions for each project.
 
 
 Technologies
-- c# - HTML5 - javaScript - Net.framework - Net.core - Unity3D
+- C# - HTML5 - javaScript - Net.framework - Net.core - Unity3D
+
+Contact
+
+Email: Indfcr12@hotmail.com
+LinkInd: www.linkedin.com/in/diego-felipe-castro-rodríguez-675133164
+
 
 
