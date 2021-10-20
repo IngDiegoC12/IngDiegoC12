@@ -10,7 +10,7 @@ technologies and developments in the technological and digital environment to fi
 solutions for each project.
 
 
-technologies
+Technologies
 - c# - HTML5 - javaScript - Net.framework - Net.core - Unity3D
 
 
